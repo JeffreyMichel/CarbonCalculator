@@ -2,6 +2,9 @@
 
 This project is a Carbon Footprint Calculator built using Python and Tkinter for the user interface. It calculates the carbon footprint of a user based on their travel habits, car usage, diet, electricity consumption, and country of residence.
 
+### Disclaimer 
+Generally, I like using jupyter notebooks for demonstrating ideas to people, I had intended this to be a teaching notebook for my friends and colleagues. Unfortunately for this project, I found other sources for teaching this information and so, after doing enough of this project to better understand the data, I transitioned towards teaching others with those pre-made (and prettier tools). I will continue to develop this tool for fun, but I add this note for any potential employers who are curious about my decisions
+
 ## Table of Contents
 
 - [Usage](#usage)
